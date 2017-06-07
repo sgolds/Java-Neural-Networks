@@ -1,2 +1,2 @@
-# Java-Neural-Networks
+# Neural Networks
 Projects from CS380: Neural Networks
